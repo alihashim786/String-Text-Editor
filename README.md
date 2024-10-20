@@ -53,4 +53,4 @@ Press 1. To create a new file. Press 2. To view an existing file. Press 3. To ed
 
 ---
 
-Start using the **String Text Editor** to create and manage your text files efficiently in primary memory!
+Contributions are welcome! Feel free to submit issues or pull requests to help improve this project.
